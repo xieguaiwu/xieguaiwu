@@ -21,9 +21,8 @@ Coding theme: Monokai-Pro
 ---
 
 ## Tools
-### 1. OS
+### 1. Linux Distro
 ![Fedora Linux](./pics/fedora-linux-logo.png)
-![Windows 10](./pics/win10.jfif)
 
 ### 2. Text Editor
 ![Vim](./pics/vim.webp)
