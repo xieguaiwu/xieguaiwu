@@ -6,9 +6,6 @@
 
 ![Wittgenstein](./pics/wittgenstein.jpg)
 
-![Chinese](https://img.shields.io/badge/Chinese)
-![English](https://img.shields.io/badge/English)
-![Deutsche](https://img.shields.io/badge/Deutsche)
 ![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=flat&logo=cplusplus&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=shell&logoColor=black)
@@ -18,7 +15,7 @@
 ## Aesthetical Preference
 
 ![Fallen Angel](./pics/fallen-angel.jpg)
-![Die Windsbraut](./pics/Die Windsbraut.jpg)
+![K.Sunnerberg](./pics/K.Sunnerberg.jpg)
 Coding theme: Monokai-Pro
 
 ---
