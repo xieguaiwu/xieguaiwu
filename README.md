@@ -1,34 +1,53 @@
 # xieguaiwu
+---
 
-**Literature · Philosophy · Art · Quantitative Research**
+## Languages
+> A whole mythology is deposited in our language.
 
-Personal blog: [xieguaiwu.github.io/blog](https://xieguaiwu.github.io/blog) — essays, literary criticism, and research notes.
+![Wittgenstein](./pics/wittgenstein.jpg)
 
-## Blog Highlights
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-| Category | Sample Posts |
-|----------|--------------|
-| Philosophy | The Constitutional Crisis of Democracy — From Bureaucratic Efficiency to the Rule of Technology |
-| Literary Theory | Abe Kōbō's *The Box Man* — A Labyrinth of Fiction That Subverts Reality |
-| Aesthetics | Krasznahorkai's *The End of Craft* — Anti-Mishima Aesthetics |
-| Political Economy | China's Economic Dilemma — How Did We Get Here |
-| Philosophy of Science | LLMs and Impossible Language Acquisition |
+![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=flat&logo=cplusplus&logoColor=white)
 
-## Active Projects
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-| Project | Description |
-|---------|-------------|
-| [blog](https://github.com/xieguaiwu/blog) | Hexo + Butterfly academic blog with bilingual support |
-| [roar](https://github.com/xieguaiwu/roar) | Cantonese voice IME — on-device ASR via sherpa-onnx |
-| [android-rebirth](https://github.com/xieguaiwu/android-rebirth) | Life-restart simulator — computational psychiatry model |
-| [pocket-llm-api-checker](https://github.com/xieguaiwu/pocket-llm-api-checker) | LLM API balance/reset tracker |
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## Connect
+![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=shell&logoColor=black)
 
-- Blog: [xieguaiwu.github.io/blog](https://xieguaiwu.github.io/blog)
-- Oxford JSS: [The Entanglement of Norm](https://www.oxfordjss.org/february-2026-vol-4-issue-1-1/the-entanglement-of-norm%3A-a-structural-study-during-the-congress-of-vienna-and-the-revolutions-of-1848)
-- arXiv: [2602.08437](https://arxiv.org/abs/2602.08437)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+I can speak Chinese, English and German.
 
 ---
 
-> "The deepest and most organic death is death in solitude, when even light becomes a principle of death." — E.M. Cioran, *On the Heights of Despair*
+## Aesthetical Preference
+
+![Fallen Angel](./pics/fallen-angel.jpg)
+
+![K.Sunnerberg](./pics/K.Sunnerberg.jpg)
+
+Coding theme: ![Monokai-Pro](https://img.shields.io/badge/Monokai-Pro-orange)
+
+Window manager: ![Sway](https://img.shields.io/badge/Sway-purple)
+
+---
+
+## Tools
+### 1. Linux Distro
+![Fedora Linux](./pics/fedora-linux-logo.png)
+
+### 2. Text Editor
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+<!--
+**xieguaiwu/xieguaiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
