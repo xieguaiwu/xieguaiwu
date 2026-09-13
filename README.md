@@ -22,6 +22,8 @@
 
 I can speak Chinese, English and German.
 
+**Literature · Philosophy · Art · Quantitative Research**
+
 ---
 
 ## Aesthetical Preference
@@ -48,6 +50,21 @@ Window manager: ![Sway](https://img.shields.io/badge/Sway-purple)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+
+---
+
+## Writing & Research
+
+- **Blog** — [xieguaiwu.github.io/blog](https://xieguaiwu.github.io/blog)
+  Essays, literary criticism, and research notes.
+- **The Entanglement of Norm** — [Oxford Journal of Social Sciences](https://www.oxfordjss.org/february-2026-vol-4-issue-1-1/the-entanglement-of-norm%3A-a-structural-study-during-the-congress-of-vienna-and-the-revolutions-of-1848)
+- **Large Language Models and Impossible Language Acquisition** — [arXiv:2602.08437](https://arxiv.org/abs/2602.08437)
+
+---
+
+> "The deepest and most organic death is death in solitude, when even light becomes a principle of death."
+> — E.M. Cioran, *On the Heights of Despair*
 
 <!--
 **xieguaiwu/xieguaiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
